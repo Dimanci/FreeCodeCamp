@@ -1,8 +1,0 @@
-Instruction:
-Use special symbols to leave comments in JS.
-
-Solution:
-
-// This code is amazing
-/* This code looks
-too long */
