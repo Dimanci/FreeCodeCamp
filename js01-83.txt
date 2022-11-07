@@ -1,0 +1,11 @@
+Instruction:
+Make an object that represents a dog called myDog which contains the properties name (a string), legs, tails and friends.
+Solution:
+const myDog = {
+  // Only change code below this line
+name: 'Rex',
+legs: 4,
+tails: 1,
+friends: ['humans', 'other dogs']
+  // Only change code above this line
+};
